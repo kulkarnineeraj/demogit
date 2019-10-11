@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 sd
 <<<<<<< HEAD
@@ -8,5 +7,3 @@ asdsadasd
 =======
 asdsadasd
 >>>>>>> parent of c8c438a... index3commit
-=======
->>>>>>> parent of 6e83a1d... index3zhol
