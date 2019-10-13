@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-=======
-sd
-<<<<<<< HEAD
-asdsadasd
->>>>>>> parent of c8c438a... index3commit
-=======
-asdsadasd
->>>>>>> parent of c8c438a... index3commit
+This is change done on branch b1 in local repo
