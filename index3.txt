@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 This is change done on branch b1 in local repo
 This is change done on master in index3 file
+=======
+>>>>>>> master
